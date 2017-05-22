@@ -1,1 +1,2 @@
-# noice-notes
+# Noice Notes
+
